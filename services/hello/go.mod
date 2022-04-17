@@ -1,3 +1,3 @@
-module github.com/costal/go-monorepo-microservices/services/hello
+module github.com/costal/go-monorepo-microservice/services/hello
 
 go 1.18
